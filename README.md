@@ -17,7 +17,7 @@ This site's core content consists of [Markdown](http://daringfireball.net/projec
 
 ### Site Organization
 
-All of the content lives inside of the subdirectories of the `page` directory. Each of these subdirectories is considered a **chapter**, and contains one or more **articles**, and there is also a top level file that corresponds to each chapter, which contains the chapter's human-readable title and an overview, which will appear on the chapter's landing page.
+All of the content lives inside of the subdirectories of the `PAGE` directory. Each of these subdirectories is considered a **chapter**, and contains one or more **articles**, and there is also a top level file that corresponds to each chapter, which contains the chapter's human-readable title and an overview, which will appear on the chapter's landing page.
 
 The [`order.json`](https://github.com/jquery/learn.jquery.com/blob/master/order.json) file controls the order that chapters and articles appear in the site.
 
